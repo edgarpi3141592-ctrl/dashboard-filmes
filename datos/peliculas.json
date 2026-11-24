@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Avengers: Endgame",
+    "genre": "Action",
+    "director": "Anthony Russo",
+    "company": "Marvel Studios",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+    "poster_file": "avengers-endgame.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+  },
+  {
+    "name": "Avatar",
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "company": "20th Century Fox",
+    "year": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+    "poster_file": "avatar.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg"
+  },
+  {
+    "name": "Spider-Man: Brand New Day",
+    "genre": "Action",
+    "director": "Destin Daniel Cretton",
+    "company": "Columbia Pictures",
+    "year": "2026",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Spider-Man_Brand_New_Day_poster.jpg",
+    "poster_file": "spider-man-brand-new-day.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Spider-Man_Brand_New_Day_poster.jpg"
+  },
+  {
+    "name": "Avatar: The Way of Water",
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "company": "Lightstorm Entertainment",
+    "year": "2022",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
+    "poster_file": "avatar-the-way-of-water.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg"
+  },
+  {
+    "name": "Titanic",
+    "genre": "Romance",
+    "director": "James Cameron",
+    "company": "Paramount Pictures",
+    "year": "1997",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+    "poster_file": "titanic.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png"
+  },
+  {
+    "name": "Ne Zha 2",
+    "genre": "Animation",
+    "director": "Jiaozi",
+    "company": "Chengdu Coco Cartoon",
+    "year": "2025",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ne_Zha_2_poster.jpg",
+    "poster_file": "ne-zha-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ne_Zha_2_poster.jpg"
+  },
+  {
+    "name": "Star Wars: The Force Awakens",
+    "genre": "Sci-Fi",
+    "director": "J. J. Abrams",
+    "company": "Lucasfilm Ltd.",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+    "poster_file": "star-wars-the-force-awakens.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg"
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "genre": "Action",
+    "director": "Anthony Russo",
+    "company": "Marvel Studios",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+    "poster_file": "avengers-infinity-war.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg"
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "genre": "Action",
+    "director": "Jon Watts",
+    "company": "Columbia Pictures",
+    "year": "2021",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "poster_file": "spider-man-no-way-home.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg"
+  },
+  {
+    "name": "Zootopia 2",
+    "genre": "Animation",
+    "director": "Jared Bush",
+    "company": "Walt Disney Animation Studios",
+    "year": "2025",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg",
+    "poster_file": "zootopia-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg"
+  },
+  {
+    "name": "The Odyssey",
+    "genre": "Fantasy",
+    "director": "Christopher Nolan",
+    "company": "Universal Pictures",
+    "year": "2026",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg",
+    "poster_file": "the-odyssey.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg"
+  },
+  {
+    "name": "Inside Out 2",
+    "genre": "Animation",
+    "director": "Kelsey Mann",
+    "company": "Pixar Animation Studios",
+    "year": "2024",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg",
+    "poster_file": "inside-out-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg"
+  },
+  {
+    "name": "Jurassic World",
+    "genre": "Sci-Fi",
+    "director": "Colin Trevorrow",
+    "company": "Universal Pictures",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",
+    "poster_file": "jurassic-world.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg"
+  },
+  {
+    "name": "The Lion King",
+    "genre": "Musical",
+    "director": "Jon Favreau",
+    "company": "Walt Disney Pictures",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
+    "poster_file": "the-lion-king.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg"
+  },
+  {
+    "name": "The Avengers",
+    "genre": "Action",
+    "director": "Joss Whedon",
+    "company": "Marvel Studios",
+    "year": "2012",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "poster_file": "the-avengers.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg"
+  },
+  {
+    "name": "Furious 7",
+    "genre": "Action",
+    "director": "James Wan",
+    "company": "Universal Pictures",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
+    "poster_file": "furious-7.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg"
+  },
+  {
+    "name": "Top Gun: Maverick",
+    "genre": "Action",
+    "director": "Joseph Kosinski",
+    "company": "Paramount Pictures",
+    "year": "2022",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+    "poster_file": "top-gun-maverick.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg"
+  },
+  {
+    "name": "Avatar: Fire and Ash",
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "company": "Lightstorm Entertainment",
+    "year": "2025",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/Avatar_Fire_and_Ash_poster.jpeg",
+    "poster_file": "avatar-fire-and-ash.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/95/Avatar_Fire_and_Ash_poster.jpeg"
+  },
+  {
+    "name": "Frozen 2",
+    "genre": "Animation",
+    "director": "Chris Buck",
+    "company": "Walt Disney Animation Studios",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg",
+    "poster_file": "frozen-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg"
+  },
+  {
+    "name": "Barbie",
+    "genre": "Fantasy",
+    "director": "Greta Gerwig",
+    "company": "Mattel Films",
+    "year": "2023",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+    "poster_file": "barbie.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg"
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "genre": "Action",
+    "director": "Joss Whedon",
+    "company": "Marvel Studios",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
+    "poster_file": "avengers-age-of-ultron.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "genre": "Animation",
+    "director": "Aaron Horvath",
+    "company": "Illumination",
+    "year": "2023",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+    "poster_file": "the-super-mario-bros-movie.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "genre": "Action",
+    "director": "Ryan Coogler",
+    "company": "Marvel Studios",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+    "poster_file": "black-panther.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows – Part 2",
+    "genre": "Fantasy",
+    "director": "David Yates",
+    "company": "Warner Bros. Pictures",
+    "year": "2011",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+    "poster_file": "harry-potter-and-the-deathly-hallows-part-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg"
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "genre": "Action",
+    "director": "Shawn Levy",
+    "company": "Marvel Studios",
+    "year": "2024",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
+    "poster_file": "deadpool-wolverine.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg"
+  },
+  {
+    "name": "Star Wars: The Last Jedi",
+    "genre": "Sci-Fi",
+    "director": "Rian Johnson",
+    "company": "Lucasfilm Ltd.",
+    "year": "2017",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+    "poster_file": "star-wars-the-last-jedi.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg"
+  },
+  {
+    "name": "Jurassic World: Fallen Kingdom",
+    "genre": "Sci-Fi",
+    "director": "J. A. Bayona",
+    "company": "Universal Pictures",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png",
+    "poster_file": "jurassic-world-fallen-kingdom.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png"
+  },
+  {
+    "name": "Frozen",
+    "genre": "Animation",
+    "director": "Chris Buck",
+    "company": "Walt Disney Animation Studios",
+    "year": "2013",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg",
+    "poster_file": "frozen.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "genre": "Fantasy",
+    "director": "Bill Condon",
+    "company": "Walt Disney Pictures",
+    "year": "2017",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg",
+    "poster_file": "beauty-and-the-beast.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg"
+  },
+  {
+    "name": "Incredibles 2",
+    "genre": "Animation",
+    "director": "Brad Bird",
+    "company": "Pixar Animation Studios",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Incredibles_2_%282018_animated_film%29.jpg",
+    "poster_file": "incredibles-2.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Incredibles_2_%282018_animated_film%29.jpg"
+  },
+  {
+    "name": "The Fate of the Furious",
+    "genre": "Action",
+    "director": "F. Gary Gray",
+    "company": "Universal Pictures",
+    "year": "2017",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+    "poster_file": "the-fate-of-the-furious.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg"
+  },
+  {
+    "name": "Iron Man 3",
+    "genre": "Action",
+    "director": "Shane Black",
+    "company": "Marvel Studios",
+    "year": "2013",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+    "poster_file": "iron-man-3.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg"
+  },
+  {
+    "name": "Minions",
+    "genre": "Animation",
+    "director": "Pierre Coffin",
+    "company": "Universal Pictures",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Minions_%282015_film%29.jpg",
+    "poster_file": "minions.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Minions_%282015_film%29.jpg"
+  },
+  {
+    "name": "Captain America: Civil War",
+    "genre": "Action",
+    "director": "Anthony Russo Joe Russo",
+    "company": "Marvel Studios",
+    "year": "2016",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+    "poster_file": "captain-america-civil-war.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg"
+  },
+  {
+    "name": "Toy Story 5",
+    "genre": "Animation",
+    "director": "Andrew Stanton",
+    "company": "Pixar Animation Studios",
+    "year": "2026",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Toy_Story_5_poster.jpg",
+    "poster_file": "toy-story-5.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Toy_Story_5_poster.jpg"
+  },
+  {
+    "name": "Aquaman",
+    "genre": "Action",
+    "director": "James Wan",
+    "company": "Warner Bros. Pictures",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg",
+    "poster_file": "aquaman.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "company": "WingNut Films",
+    "year": "2003",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg",
+    "poster_file": "the-lord-of-the-rings-the-return-of-the-king.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg"
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "genre": "Action",
+    "director": "Jon Watts",
+    "company": "Columbia Pictures",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+    "poster_file": "spider-man-far-from-home.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "genre": "Action",
+    "director": "Anna Boden",
+    "company": "Marvel Studios",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg",
+    "poster_file": "captain-marvel.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg"
+  },
+  {
+    "name": "Transformers: Dark of the Moon",
+    "genre": "Sci-Fi",
+    "director": "Michael Bay",
+    "company": "Paramount Pictures",
+    "year": "2011",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg",
+    "poster_file": "transformers-dark-of-the-moon.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg"
+  },
+  {
+    "name": "Dances With Wolves",
+    "genre": "Western",
+    "director": "Kevin Costner",
+    "company": "Tig Productions",
+    "year": "1990",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Dances_with_Wolves_poster.jpg",
+    "poster_file": "dances-with-wolves.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/82/Dances_with_Wolves_poster.jpg"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "genre": "Horror",
+    "director": "Jonathan Demme",
+    "company": "Strong Heart Productions",
+    "year": "1991",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+    "poster_file": "the-silence-of-the-lambs.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+  },
+  {
+    "name": "Unforgiven",
+    "genre": "Western",
+    "director": "Clint Eastwood",
+    "company": "Malpaso Productions",
+    "year": "1992",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4e/Unforgiven_2.jpg",
+    "poster_file": "unforgiven.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Unforgiven_2.jpg"
+  },
+  {
+    "name": "Schindler's List",
+    "genre": "Historical",
+    "director": "Steven Spielberg",
+    "company": "Universal Pictures",
+    "year": "1993",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",
+    "poster_file": "schindler-s-list.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
+  },
+  {
+    "name": "Forrest Gump",
+    "genre": "Comedy",
+    "director": "Robert Zemeckis",
+    "company": "The Tisch Company",
+    "year": "1994",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "poster_file": "forrest-gump.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+  },
+  {
+    "name": "Braveheart",
+    "genre": "War",
+    "director": "Mel Gibson",
+    "company": "Icon Productions",
+    "year": "1995",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Braveheart_film_poster.png",
+    "poster_file": "braveheart.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Braveheart_film_poster.png"
+  },
+  {
+    "name": "The English Patient",
+    "genre": "War",
+    "director": "Anthony Minghella",
+    "company": "Tiger Moth Productions",
+    "year": "1996",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg",
+    "poster_file": "the-english-patient.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_English_Patient_Poster.jpg"
+  },
+  {
+    "name": "Shakespeare in Love",
+    "genre": "Romance",
+    "director": "John Madden",
+    "company": "The Bedford Falls Company",
+    "year": "1998",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e8/Shakespeare_in_Love_1998_Poster.jpg",
+    "poster_file": "shakespeare-in-love.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Shakespeare_in_Love_1998_Poster.jpg"
+  },
+  {
+    "name": "American Beauty",
+    "genre": "Comedy",
+    "director": "Sam Mendes",
+    "company": "DreamWorks Pictures",
+    "year": "1999",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
+    "poster_file": "american-beauty.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg"
+  },
+  {
+    "name": "Gladiator",
+    "genre": "Adventure",
+    "director": "Ridley Scott",
+    "company": "DreamWorks Pictures",
+    "year": "2000",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png",
+    "poster_file": "gladiator.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+  },
+  {
+    "name": "A Beautiful Mind",
+    "genre": "Biography",
+    "director": "Ron Howard",
+    "company": "Universal Pictures",
+    "year": "2001",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",
+    "poster_file": "a-beautiful-mind.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg"
+  },
+  {
+    "name": "Chicago",
+    "genre": "Musical",
+    "director": "Rob Marshall",
+    "company": "Producer Circle Co.",
+    "year": "2002",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/Chicago_%282002_film%29.png",
+    "poster_file": "chicago.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Chicago_%282002_film%29.png"
+  },
+  {
+    "name": "Million Dollar Baby",
+    "genre": "Sport",
+    "director": "Clint Eastwood",
+    "company": "Lakeshore Entertainment",
+    "year": "2004",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d3/Million_Dollar_Baby_poster.jpg",
+    "poster_file": "million-dollar-baby.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Million_Dollar_Baby_poster.jpg"
+  },
+  {
+    "name": "Crash",
+    "genre": "Crime",
+    "director": "Paul Haggis",
+    "company": "Bob Yari Productions",
+    "year": "2004",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Crash_ver2.jpg",
+    "poster_file": "crash.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Crash_ver2.jpg"
+  },
+  {
+    "name": "The Departed",
+    "genre": "Crime",
+    "director": "Martin Scorsese",
+    "company": "Plan B Entertainment",
+    "year": "2006",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
+    "poster_file": "the-departed.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg"
+  },
+  {
+    "name": "No Country for Old Men",
+    "genre": "Western",
+    "director": "Joel Coen",
+    "company": "Miramax Films",
+    "year": "2007",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+    "poster_file": "no-country-for-old-men.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg"
+  },
+  {
+    "name": "Slumdog Millionaire",
+    "genre": "Drama",
+    "director": "Danny Boyle",
+    "company": "Celador Films",
+    "year": "2008",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/92/Slumdog_Millionaire_poster.png",
+    "poster_file": "slumdog-millionaire.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/92/Slumdog_Millionaire_poster.png"
+  },
+  {
+    "name": "The Hurt Locker",
+    "genre": "War",
+    "director": "Kathryn Bigelow",
+    "company": "Voltage Pictures",
+    "year": "2008",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6c/HLposterUSA2.jpg",
+    "poster_file": "the-hurt-locker.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6c/HLposterUSA2.jpg"
+  },
+  {
+    "name": "The King's Speech",
+    "genre": "Historical",
+    "director": "Tom Hooper",
+    "company": "UK Film Council",
+    "year": "2010",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_King%27s_Speech_poster.jpg",
+    "poster_file": "the-king-s-speech.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_King%27s_Speech_poster.jpg"
+  },
+  {
+    "name": "The Artist",
+    "genre": "Comedy",
+    "director": "Michel Hazanavicius",
+    "company": "La Petite Reine",
+    "year": "2011",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Artist_Poster.jpg",
+    "poster_file": "the-artist.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Artist_Poster.jpg"
+  },
+  {
+    "name": "Argo",
+    "genre": "Thriller",
+    "director": "Ben Affleck",
+    "company": "GK Films",
+    "year": "2012",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Argo2012Poster.jpg",
+    "poster_file": "argo.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Argo2012Poster.jpg"
+  },
+  {
+    "name": "12 Years a Slave",
+    "genre": "Biography",
+    "director": "Steve McQueen",
+    "company": "Regency Enterprises",
+    "year": "2013",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5c/12_Years_a_Slave_film_poster.jpg",
+    "poster_file": "12-years-a-slave.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5c/12_Years_a_Slave_film_poster.jpg"
+  },
+  {
+    "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "genre": "Comedy",
+    "director": "Alejandro G. Iñárritu",
+    "company": "Regency Enterprises",
+    "year": "2014",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Birdman_poster.png",
+    "poster_file": "birdman-or-the-unexpected-virtue-of-ignorance.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Birdman_poster.png"
+  },
+  {
+    "name": "Spotlight",
+    "genre": "Biography",
+    "director": "Tom McCarthy",
+    "company": "Participant Media",
+    "year": "2015",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f3/Spotlight_%28film%29_poster.jpg",
+    "poster_file": "spotlight.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Spotlight_%28film%29_poster.jpg"
+  },
+  {
+    "name": "Moonlight",
+    "genre": "Drama",
+    "director": "Barry Jenkins",
+    "company": "A24",
+    "year": "2016",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/84/Moonlight_%282016_film%29.png",
+    "poster_file": "moonlight.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/84/Moonlight_%282016_film%29.png"
+  },
+  {
+    "name": "The Shape of Water",
+    "genre": "Fantasy",
+    "director": "Guillermo del Toro",
+    "company": "Fox Searchlight Pictures",
+    "year": "2017",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/The_Shape_of_Water_%28film%29.png",
+    "poster_file": "the-shape-of-water.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/37/The_Shape_of_Water_%28film%29.png"
+  },
+  {
+    "name": "Green Book",
+    "genre": "Comedy",
+    "director": "Peter Farrelly",
+    "company": "Participant Media",
+    "year": "2018",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5b/Green_Book_%282018_poster%29.png",
+    "poster_file": "green-book.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Green_Book_%282018_poster%29.png"
+  },
+  {
+    "name": "Parasite",
+    "genre": "Thriller",
+    "director": "Bong Joon Ho",
+    "company": "Barunson E&A",
+    "year": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+    "poster_file": "parasite.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png"
+  },
+  {
+    "name": "Nomadland",
+    "genre": "Drama",
+    "director": "Chloé Zhao",
+    "company": "Highwayman",
+    "year": "2020",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a5/Nomadland_poster.jpeg",
+    "poster_file": "nomadland.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Nomadland_poster.jpeg"
+  },
+  {
+    "name": "CODA",
+    "genre": "Comedy",
+    "director": "Sian Heder",
+    "company": "Pathé",
+    "year": "2021",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Coda_poster.jpeg",
+    "poster_file": "coda.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Coda_poster.jpeg"
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "genre": "Comedy",
+    "director": "Daniel Kwan",
+    "company": "A24",
+    "year": "2022",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+    "poster_file": "everything-everywhere-all-at-once.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg"
+  },
+  {
+    "name": "Oppenheimer",
+    "genre": "Biography",
+    "director": "Christopher Nolan",
+    "company": "Universal Pictures",
+    "year": "2023",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+    "poster_file": "oppenheimer.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg"
+  },
+  {
+    "name": "Anora",
+    "genre": "Romance",
+    "director": "Sean Baker",
+    "company": "FilmNation Entertainment",
+    "year": "2024",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2b/Anora_%282024_film%29_poster.jpg",
+    "poster_file": "anora.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Anora_%282024_film%29_poster.jpg"
+  },
+  {
+    "name": "One Battle After Another",
+    "genre": "Thriller",
+    "director": "Paul Thomas Anderson",
+    "company": "Warner Bros. Pictures",
+    "year": "2025",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/One_Battle_After_Another.jpg",
+    "poster_file": "one-battle-after-another.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/One_Battle_After_Another.jpg"
+  },
+  {
+    "name": "Mon crime",
+    "genre": "Crime",
+    "director": "François Ozon",
+    "company": "Mandarin & Compagnie",
+    "year": "2023",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/Mon_crime_affiche.jpg",
+    "poster_file": "mon-crime.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Mon_crime_affiche.jpg"
+  },
+  {
+    "name": "The Parent Trap",
+    "genre": "Romance",
+    "director": "Nancy Meyers",
+    "company": "Walt Disney Pictures",
+    "year": "1998",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Parenttrapposter.jpg",
+    "poster_file": "the-parent-trap.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Parenttrapposter.jpg"
+  },
+  {
+    "name": "Enigma",
+    "genre": "Thriller",
+    "director": "Michael Apted",
+    "company": "Jagged Films",
+    "year": "2001",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Enigma_film.jpg",
+    "poster_file": "enigma.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Enigma_film.jpg"
+  },
+  {
+    "name": "Hors de prix",
+    "genre": "Romance",
+    "director": "Pierre Salvadori",
+    "company": "Les Films Pelléas",
+    "year": "2006",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hors_de_prix.jpg",
+    "poster_file": "hors-de-prix.jpg",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hors_de_prix.jpg"
+  }
+]

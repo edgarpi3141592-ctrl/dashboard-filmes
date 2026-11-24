@@ -1,0 +1,7 @@
+# Versiones fijas: Streamlit Cloud reinstala en cada despliegue y una versión
+# nueva no debe romper lo que ya se calificó.
+streamlit==1.67.0
+pandas==3.1.1
+google-cloud-firestore==2.34.1
+psycopg2-binary==2.9.13
+python-dotenv==1.2.4

@@ -1,0 +1,15 @@
+# Tema oscuro. Los colores son los de la marca que inspira el dashboard:
+# fondo casi negro y un rojo fuerte como único acento.
+[theme]
+base = "dark"
+primaryColor = "#E50914"
+backgroundColor = "#141414"
+secondaryBackgroundColor = "#1C1C1C"
+textColor = "#F5F5F5"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
